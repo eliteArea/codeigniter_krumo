@@ -36,11 +36,12 @@ To load the aggregate spark..
 #### Setup:
 
 in config file ( krumo.ini into library folder )
+
 [skin]
-  for select krumo skin
+for select krumo skin
 
 [css]
- for extend external css file ( not recommend , more load time )
+for extend external css file ( not recommend , more load time )
 
 
 HOW TO CALL:
